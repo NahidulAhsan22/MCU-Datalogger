@@ -2360,6 +2360,32 @@
 			)
 		)
 	)
+	(junction
+		(at 163.83 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "470e0314-8a57-44b9-92ca-539f9b023e04")
+	)
+	(wire
+		(pts
+			(xy 100.33 67.31) (xy 163.83 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35044c24-57fb-4ac7-9f7d-1f3ce1612fb0")
+	)
+	(wire
+		(pts
+			(xy 163.83 67.31) (xy 177.8 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7153a46-adc9-4513-8caa-6adc29f98c10")
+	)
 	(symbol
 		(lib_id "SparkFun-LED:LED")
 		(at 236.22 66.04 90)
