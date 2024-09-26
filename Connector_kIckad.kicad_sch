@@ -1281,7 +1281,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33fcab16-6239-492a-8aa3-ac7bf3fd8c80")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 99.695 36.83 0)
 			(effects
 				(font
@@ -1339,7 +1339,7 @@
 		(instances
 			(project "MCU Datalogger"
 				(path "/8c17128f-7127-4964-b664-e83d9a8ccbe4/3feca284-0ad9-4ef4-8262-f85138b1f5ba"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -1355,7 +1355,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c2806a9-ab2a-4581-9183-87fe84d3f4e0")
-		(property "Reference" "J2"
+		(property "Reference" "J1"
 			(at 65.405 36.83 0)
 			(effects
 				(font
@@ -1413,7 +1413,7 @@
 		(instances
 			(project ""
 				(path "/8c17128f-7127-4964-b664-e83d9a8ccbe4/3feca284-0ad9-4ef4-8262-f85138b1f5ba"
-					(reference "J2")
+					(reference "J1")
 					(unit 1)
 				)
 			)
